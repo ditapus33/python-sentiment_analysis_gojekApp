@@ -76,7 +76,11 @@ python-sentiment-analysis-gojekApp/
 
 │
 
-├── gojek_reviews.csv # Scraped review dataset
+├── data/
+
+│ ├── gojek_reviews.csv # Scraped review dataset (raw)
+
+│ └── gojek_cleaned.csv # Scraped review dataset (cleaned)
 
 │
 
