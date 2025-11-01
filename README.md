@@ -92,7 +92,11 @@ python-sentiment-analysis-gojekApp/
 
 │ ├── sentiment_pie_chart.png # Visualization results
 
-│ ├── wordcloud_negative.png
+│ ├── wordcloud_positive.png
+
+│ ├── wordcloud_neutral.png
+
+│ ├── wordcloud_positive.png
 
 │ ├── insight_summary.pdf # Final interpretation report
 
