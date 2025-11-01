@@ -49,6 +49,12 @@ Visual exploration of the sentiment distribution and most frequent keywords thro
 ### Negative Review Word Cloud
 ![Negative Word Cloud](output/wordcloud_negative.png)
 
+### Negative Review Word Cloud
+![Neutral Word Cloud](output/wordcloud_neutral.png)
+
+### Negative Review Word Cloud
+![Positive Word Cloud](output/wordcloud_positive.png)
+
 ---
 
 ## 🧩 How to Run the Project
@@ -92,7 +98,7 @@ python-sentiment-analysis-gojekApp/
 
 │ ├── sentiment_pie_chart.png # Visualization results
 
-│ ├── wordcloud_positive.png
+│ ├── wordcloud_negative.png
 
 │ ├── wordcloud_neutral.png
 
