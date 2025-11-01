@@ -44,16 +44,16 @@ Visual exploration of the sentiment distribution and most frequent keywords thro
 
 ## 📈 Visualizations
 ### Sentiment Distribution
-![Sentiment Pie Chart](output/sentiment_pie_chart.png)
+<img src="output/sentiment_pie_chart.png" alt="Sentiment Pie Chart" width="400"/>
 
 ### Negative Review Word Cloud
-![Negative Word Cloud](output/wordcloud_negative.png)
+<img src="output/wordcloud_negative.png" alt="Negative Word Cloud" width="400"/>
 
-### Negative Review Word Cloud
-![Neutral Word Cloud](output/wordcloud_neutral.png)
+### Neutral Review Word Cloud
+<img src="output/wordcloud_neutral.png" alt="Neutral Word Cloud" width="400"/>
 
-### Negative Review Word Cloud
-![Positive Word Cloud](output/wordcloud_positive.png)
+### Positive Review Word Cloud
+<img src="output/wordcloud_positive.png" alt="Positive Word Cloud" width="400"/>
 
 ---
 
